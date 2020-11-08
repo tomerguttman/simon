@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://i.ibb.co/1zNkwp0/New-Project-1.png" alt="New-Project-1" border="0">
 </p>
-<hr>
 <p align="center">
   <img src="https://i.ibb.co/1T7VR8z/New-Project-2.png" alt="New-Project-2" border="0"></p>
 
