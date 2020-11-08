@@ -8,8 +8,7 @@
 
 # Simon 🕹
 
-Built a small browser Simon game - the one that you have to repeat the color pattern ;)
-
+Built a small browser Simon game - Yes, the one that you have to repeat the given color pattern  ;)
 <br>Technology used:<br /> `Javascript` `jQuery` `HTML` `CSS` 
 
 ## How to play the game?
